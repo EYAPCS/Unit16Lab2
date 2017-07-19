@@ -3,6 +3,11 @@ import java.util.Arrays;
 /**
  * Created by emma on 7/18/17.
  */
+
+/**
+ * Iteratively bubble sorts a list of integers
+ */
+
 public class BubbleSorter {
 
     public static int[] bubbleSort(int[] nums) {
